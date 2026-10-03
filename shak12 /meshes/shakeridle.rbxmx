@@ -1,0 +1,598 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="CurveAnimation" referent="RBX5B348F957D254F9DB28F9256BEDA755C">
+		<Properties>
+			<BinaryString name="GuidBinaryString">1DqOdZOyTC+SwVYOWRd7Zw==</BinaryString>
+			<bool name="Loop">true</bool>
+			<token name="Priority">0</token>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+			<bool name="DefinesCapabilities">false</bool>
+			<string name="Name">idletest</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<SharedString name="Tags">Ls1+a1nRvFlVi84XC9fW2Q==</SharedString>
+		</Properties>
+		<Item class="Folder" referent="RBXFD9F7D0C6A79485A95C1A3458B403C88">
+			<Properties>
+				<Color3 name="IconTint">
+					<R>0</R>
+					<G>0</G>
+					<B>0</B>
+				</Color3>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<string name="Name">HumanoidRootPart</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+			</Properties>
+			<Item class="Folder" referent="RBX7AC10FE376F847C8ADD29780A469CABD">
+				<Properties>
+					<Color3 name="IconTint">
+						<R>0</R>
+						<G>0</G>
+						<B>0</B>
+					</Color3>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<string name="Name">BodyPrimary</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				</Properties>
+				<Item class="Vector3Curve" referent="RBX0D68370DA77640B39E6B51A84977EAC3">
+					<Properties>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<string name="Name">Position</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+					</Properties>
+					<Item class="FloatCurve" referent="RBXC33CB04717F648F3A7FDA05907391973">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAECFuz4AAAAAAAAAAAIAQIW7PgAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">X</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+					<Item class="FloatCurve" referent="RBXEACA261FA730453582C08FC3483A7A7D">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAKANab8AAAAAAAAAAAIAoA1pvwAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">Y</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+					<Item class="FloatCurve" referent="RBXBA674FC43A024A71951D6CA2ED66E3F5">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAECmQr8AAAAAAAAAAAIAQKZCvwAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">Z</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+				</Item>
+				<Item class="EulerRotationCurve" referent="RBX1CF15D270BC642B7B60E8FE17D53CDBE">
+					<Properties>
+						<token name="RotationOrder">0</token>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<string name="Name">Rotation</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+					</Properties>
+					<Item class="FloatCurve" referent="RBX9F34184BCB7347FFBD45880FC83F8C23">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAAAAAIAAAAAAAAAAAAIAAAAAgAAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">X</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+					<Item class="FloatCurve" referent="RBX130BD5D289C14344AF8F74A70C5169FA">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAO19lz0AAAAAAAAAAAIA7X2XPQAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">Y</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+					<Item class="FloatCurve" referent="RBX9FE28FFFD2C3476B98731DA1D2F5C45E">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAAAAAIAAAAAAAAAAAAIAAAAAgAAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">Z</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+				</Item>
+			</Item>
+			<Item class="Folder" referent="RBX1E51CB9DA47C498AB719A24B26275442">
+				<Properties>
+					<Color3 name="IconTint">
+						<R>0</R>
+						<G>0</G>
+						<B>0</B>
+					</Color3>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<string name="Name">RightArm</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				</Properties>
+				<Item class="Vector3Curve" referent="RBX20AB181D6A4A4F5B8557AA2AC24DAE4D">
+					<Properties>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<string name="Name">Position</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+					</Properties>
+					<Item class="FloatCurve" referent="RBX2D203C9BFF1F47B584EE3E8DFB5D5B8B">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAGATRD8AAAAAAAAAAAIAYBNEPwAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">X</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+					<Item class="FloatCurve" referent="RBX35523B43B0E94D5E85E6FB9F5CFE3B08">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAIBUTb8AAAAAAAAAAAIAgFRNvwAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">Y</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+					<Item class="FloatCurve" referent="RBXB2E74DFF0A1C4E90A970B3325D43364D">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAADKTD4AAAAAAAAAAAIAAMpMPgAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">Z</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+				</Item>
+				<Item class="EulerRotationCurve" referent="RBXB4FF1192C34941118B1853029F98CD20">
+					<Properties>
+						<token name="RotationOrder">0</token>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<string name="Name">Rotation</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+					</Properties>
+					<Item class="FloatCurve" referent="RBX52F1CD98F81A4A5F826C24AD18956043">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAAAAAIAAAAAAAAAAAAIAAAAAgAAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">X</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+					<Item class="FloatCurve" referent="RBX339DCC6A9A884536B2DF9E1074E05084">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAPNgJD4AAAAAAAAAAAIA82AkPgAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">Y</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+					<Item class="FloatCurve" referent="RBX8964A6A1E73C4F63992BDD64A0EA8EF8">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAAAAAIAAAAAAAAAAAAIAAAAAgAAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">Z</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+				</Item>
+			</Item>
+			<Item class="Folder" referent="RBX4C6F461DFF4F41D2A66332E17F44F6F1">
+				<Properties>
+					<Color3 name="IconTint">
+						<R>0</R>
+						<G>0</G>
+						<B>0</B>
+					</Color3>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<string name="Name">LeftArm</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				</Properties>
+				<Item class="Vector3Curve" referent="RBXDADE6744F19345F58593B988AF7044E8">
+					<Properties>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<string name="Name">Position</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+					</Properties>
+					<Item class="FloatCurve" referent="RBXC94B5CFA55844C89B98C99FAB52496BD">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAABIhb0AAAAAAAAAAAIAAEiFvQAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">X</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+					<Item class="FloatCurve" referent="RBX6C746EEBBD324D4EA8F1EB0F1F0E5ABF">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAMAAZL8AAAAAAAAAAAIAwABkvwAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">Y</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+					<Item class="FloatCurve" referent="RBX6CDD9E1EFB894033B9BC158ABD2265F3">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAICcGL8AAAAAAAAAAAIAgJwYvwAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">Z</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+				</Item>
+				<Item class="EulerRotationCurve" referent="RBX6E2076A0FDD74EDEAC85E54ABAB0733E">
+					<Properties>
+						<token name="RotationOrder">0</token>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<string name="Name">Rotation</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+					</Properties>
+					<Item class="FloatCurve" referent="RBX56065D0057784AD6AF5A5185E061315D">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAABFbT8AAAAAAAAAAAIAAEVtPwAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">X</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+					<Item class="FloatCurve" referent="RBX4D96AFA6A83B491F8704FBA0E695ACBE">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAPXj/L4AAAAAAAAAAAIA9eP8vgAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">Y</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+					<Item class="FloatCurve" referent="RBXB873EFE6C3814B4991448441CB85824E">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAEPfZj0AAAAAAAAAAAIAQ99mPQAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">Z</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+				</Item>
+			</Item>
+			<Item class="Folder" referent="RBX331E658C5B1D480FB397BA5E9116C9A2">
+				<Properties>
+					<Color3 name="IconTint">
+						<R>0</R>
+						<G>0</G>
+						<B>0</B>
+					</Color3>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<string name="Name">MagazinePrimary</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				</Properties>
+				<Item class="Vector3Curve" referent="RBX83147A5CC6C24B4A8D1F0943FE131C21">
+					<Properties>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<string name="Name">Position</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+					</Properties>
+					<Item class="FloatCurve" referent="RBXCFE10F663D5848389D560615FD3B0917">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAIDZpj4AAAAAAAAAAAIAgNmmPgAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">X</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+					<Item class="FloatCurve" referent="RBXA5B8F44CE1254CD5B0322FBBDFF3A38A">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAKANab8AAAAAAAAAAAIAoA1pvwAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">Y</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+					<Item class="FloatCurve" referent="RBX1794E7C4F4CD43928BFBA303B76C3F02">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAGBEQr8AAAAAAAAAAAIAYERCvwAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">Z</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+				</Item>
+				<Item class="EulerRotationCurve" referent="RBXB96FCAF62DB84514A64D49FB602AF810">
+					<Properties>
+						<token name="RotationOrder">0</token>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<string name="Name">Rotation</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+					</Properties>
+					<Item class="FloatCurve" referent="RBXB0899B93EC1B4EAAB01CD184AA3144F7">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAAAAAIAAAAAAAAAAAAIAAAAAgAAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">X</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+					<Item class="FloatCurve" referent="RBX1C274B0A0860478EA8BED372CDB44175">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAO19lz0AAAAAAAAAAAIA7X2XPQAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">Y</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+					<Item class="FloatCurve" referent="RBX474A2C8C74154D68A341580668EA8847">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAAAAAIAAAAAAAAAAAAIAAAAAgAAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">Z</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+				</Item>
+			</Item>
+			<Item class="Folder" referent="RBX53865923525D4DE5950C85E179AC5562">
+				<Properties>
+					<Color3 name="IconTint">
+						<R>0</R>
+						<G>0</G>
+						<B>0</B>
+					</Color3>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<string name="Name">BoltPrimary</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				</Properties>
+				<Item class="Vector3Curve" referent="RBXE46481040B39412392C7F36B435627DF">
+					<Properties>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<string name="Name">Position</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+					</Properties>
+					<Item class="FloatCurve" referent="RBX818188B60B8C4A56B3EA23430FAB1D80">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAEAinj4AAAAAAAAAAAIAQCKePgAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">X</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+					<Item class="FloatCurve" referent="RBXC1CD329FD29A4062A1E6598E128C53D4">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAKANab8AAAAAAAAAAAIAoA1pvwAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">Y</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+					<Item class="FloatCurve" referent="RBXBA48E57A75BB4C6EA54384572F7F6BE7">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAECkP78AAAAAAAAAAAIAQKQ/vwAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">Z</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+				</Item>
+				<Item class="EulerRotationCurve" referent="RBXFCAE205EE3274777867172436F12F80C">
+					<Properties>
+						<token name="RotationOrder">0</token>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<string name="Name">Rotation</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+					</Properties>
+					<Item class="FloatCurve" referent="RBX3E4AC64DB5414C56B7F4B26BEE1893ED">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAAAAAIAAAAAAAAAAAAIAAAAAgAAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">X</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+					<Item class="FloatCurve" referent="RBX9C4E01BF17104EA19FA7E2B9FE977047">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAO19lz0AAAAAAAAAAAIA7X2XPQAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">Y</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+					<Item class="FloatCurve" referent="RBX8097AB744252465792DFD8CA05A8AA2D">
+						<Properties>
+							<BinaryString name="ValuesAndTimes">AgAAAAIAAAACAAAAAIAAAAAAAAAAAAIAAAAAgAAAAAAAAAAAAQAAAAIAAAAAAAAA0AIAAA==</BinaryString>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+							<bool name="DefinesCapabilities">false</bool>
+							<string name="Name">Z</string>
+							<int64 name="SourceAssetId">-1</int64>
+							<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+						</Properties>
+					</Item>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="MarkerCurve" referent="RBX4D78C9F757C54A95874A5CAD1CEE5C36">
+			<Properties>
+				<BinaryString name="ValuesAndTimes">AgAAAAAAAAABAAAAAAAAAA==</BinaryString>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<string name="Name">NamedKeyframeEvent</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+			</Properties>
+		</Item>
+		<Item class="AnimationRigData" referent="RBX2E2B1F6FBDB949E7BA9F393BB73E9781">
+			<Properties>
+				<BinaryString name="Generic">AwAAAAAAAAAAAABAAAAAQPAgZUAAAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAAAA=</BinaryString>
+				<BinaryString name="label">AgAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryString>
+				<BinaryString name="name"><![CDATA[AQAAAAgAAAAAAAAAEAAAAAcAAAALAAAACwAAAA8AAAAVAAAACAAAAEh1bWFub2lkUm9vdFBh
+cnRMZWZ0QXJtQm9keVByaW1hcnlCb2x0UHJpbWFyeU1hZ2F6aW5lUHJpbWFyeVJlbG9hZE1h
+Z2F6aW5lUHJpbWFyeVJpZ2h0QXJt]]></BinaryString>
+				<BinaryString name="parent">AQAAAAgAAAAAAAEAAgACAAIAAgACAAIA</BinaryString>
+				<BinaryString name="postTransform"><![CDATA[AgAAAAgAAAAAAIA/AAAAAAAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAA
+AAAAAIA/AAAAAAAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAIA/
+AAAAAAAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAIA/AAAAAAAA
+AAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAA
+AACAPwAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAAACAPwAA
+AAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAAACAPwAAAAAAAAAA
+AAAAAAAAgD8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAA
+gD8AAAAAAAAAAAAAAAA=]]></BinaryString>
+				<BinaryString name="preTransform"><![CDATA[AgAAAAgAAAAAAIA/AAAAAAAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAA
+AAAAAIA/AAAAAAAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAAC0
+AAAAgAEAgL8AAAAAAACAPwAAAIABAIA/AAAAAAAAALTA4UW/AMRtvlAAU78AAIA/AAAAAC69
+OzMAAAAAAACAPwAAAAAuvTuzAAAAAAAAgD8AADi5APw4uwA47b0AAIA/AAAAAC69OzMAAAAA
+AACAPwAAAAAuvTuzAAAAAAAAgD8ASgW+xE8LPwCXZb8AAIA/AAAAAC69OzMAAAAAAACAPwAA
+AAAuvTuzAAAAAAAAgD8AADi5wCF5vQBtKb8AAIA/AAAAAC69OzMAAAAAAACAPwAAAAAuvTuz
+AAAAAAAAgD8Aoey+wCF5vQBtKb8AAAC0AAAAgAEAgL8AAAAAAACAPwAAAIABAIA/AAAAAAAA
+ALRAL0Y/gMRtviAAU78=]]></BinaryString>
+				<BinaryString name="transform"><![CDATA[AgAAAAgAAAAAAIA/AAAAAAAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAA
+AAAAAIA/AAAAAAAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAIA/
+AAAAAAAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAIA/AAAAAAAA
+AAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAA
+AACAPwAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAAACAPwAA
+AAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAAACAPwAAAAAAAAAA
+AAAAAAAAgD8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAA
+gD8AAAAAAAAAAAAAAAA=]]></BinaryString>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<string name="Name">ModelAnimationRigData</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+			</Properties>
+		</Item>
+	</Item>
+	<SharedStrings>
+		<SharedString md5="Ls1+a1nRvFlVi84XC9fW2Q==">MTc5MDk3NDk3NQ==</SharedString>
+		<SharedString md5="yuZpQdnvvUBOTYh1jqZ2cA=="></SharedString>
+	</SharedStrings>
+</roblox>
